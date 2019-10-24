@@ -1,0 +1,2 @@
+# jbsimpleplugin
+ Just example plugin
