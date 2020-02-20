@@ -16,7 +16,7 @@
   <dependencies>
   	<dependency>
   		<groupId>net.novaplay</groupId>
-  		<artifactId>jbproxy</artifactId>
+  		<artifactId>bcproxy</artifactId>
   		<version>1.0</version>
   	</dependency>
   </dependencies>
